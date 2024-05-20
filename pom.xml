@@ -17,6 +17,10 @@
 	<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 //bug 130  fixed
 <dependency>
+<groupid></groupid>
+<artifactid></artifactid>
+</dependency>
+<dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
     <version>6.1.5</version>
